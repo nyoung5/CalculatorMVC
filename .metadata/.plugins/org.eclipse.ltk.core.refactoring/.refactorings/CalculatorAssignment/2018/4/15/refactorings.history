@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;edu.elon.calculator.Calculator&apos; to &apos;CalculatorSource&apos;&#x0A;- Original project: &apos;CalculatorAssignment&apos;&#x0A;- Original element: &apos;edu.elon.calculator.Calculator&apos;&#x0A;- Renamed element: &apos;edu.elon.calculator.CalculatorSource&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Calculator&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;edu.elon.calculator{Calculator.java[Calculator" matchStrategy="1" name="CalculatorSource" qualified="false" references="true" similarDeclarations="false" stamp="1523375031887" textual="false" version="1.0"/>
+</session>

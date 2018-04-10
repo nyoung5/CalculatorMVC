@@ -1,0 +1,14 @@
+package edu.elon.calculator;
+
+import java.rmi.RemoteException;
+import java.rmi.server.UnicastRemoteObject;
+
+//Need to copy over the methods I want to use into this 
+public class CalculatorImpl extends UnicastRemoteObject implements Calculator{
+
+	protected CalculatorImpl() throws RemoteException {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+}

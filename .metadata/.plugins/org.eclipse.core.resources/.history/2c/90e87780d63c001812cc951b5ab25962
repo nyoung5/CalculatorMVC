@@ -1,0 +1,14 @@
+package edu.elon.calculator;
+
+import java.rmi.Remote;
+import java.rmi.RemoteException;
+
+public interface Calculator {
+
+	public interface Product extends Remote {
+
+		  String calculate() throws RemoteException;
+
+		}
+	
+}

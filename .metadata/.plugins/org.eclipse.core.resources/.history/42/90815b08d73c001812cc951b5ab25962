@@ -1,0 +1,7 @@
+package edu.elon.calculator;
+
+
+//Need to copy over the methods I want to use into this 
+public class CalculatorImpl extends UnicastRemoteObject implements Calculator{
+
+}
