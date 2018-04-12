@@ -1,4 +1,4 @@
-package edu.elon.calculator;
+package edu.elon.accessories;
 
 import java.rmi.RemoteException;
 import java.rmi.server.UnicastRemoteObject;

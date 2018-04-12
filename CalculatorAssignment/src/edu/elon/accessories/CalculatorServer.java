@@ -1,4 +1,4 @@
-package edu.elon.calculator;
+package edu.elon.accessories;
 import javax.naming.Context;
 import javax.naming.InitialContext;
 
