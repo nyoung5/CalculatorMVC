@@ -6,8 +6,6 @@ public interface ModelInterface {
 	void removeObserver(ModelObserver o);
 	void notifyObservers();
 	
-
 	String getText();
-
 	void operation(String toCalculate);
 }
